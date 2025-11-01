@@ -7,6 +7,7 @@
     background-repeat: no-repeat;
    }                                           
 </style>
+
 <h1><I>KING'S MOTORS<I></h1>
 
 <h2>Luxurious and Sport cars availablle for sale</h2>
